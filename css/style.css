@@ -1,0 +1,12 @@
+#main {
+  min-width: 100px;
+  padding: 10px;
+}
+
+#main #inputfield, #main #output {
+  width: 100%;
+  height: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  font-family: "century gothic";
+}

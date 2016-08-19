@@ -1,0 +1,22 @@
+%positioning{
+  min-width: 100px;
+  padding: 10px;
+}
+
+%input-style{
+ width: 100%;
+  height: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  font-family: "century gothic";
+  }
+
+#main {
+ @extend %positioning;
+  #inputfield {
+   @extend %input-style;
+  }
+  #output {
+    @extend %input-style;
+  }
+}
