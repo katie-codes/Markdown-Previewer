@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/katie-codes/pen/BzEpZO.
+My first project using ReactJS and SCSS. 
+
+See live at http://codepen.io/katie-codes/pen/BzEpZO.
 
  
